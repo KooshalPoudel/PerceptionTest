@@ -1,0 +1,16 @@
+# Compiled class files
+*.class
+build/
+dist/
+
+# NetBeans private/personal config (keep the rest of nbproject/)
+nbproject/private/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
